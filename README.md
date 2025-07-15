@@ -19,15 +19,7 @@ Libraries: Java AWT, Java Swing
 
 IDE: VS Code / IntelliJ / Eclipse (choose based on your setup)
 
-🚀 Getting Started
-1. Clone the Repository
-bash
-git clone https://github.com/yourusername/ping-pong-java.git
-cd ping-pong-java
-2. Compile the Project
-bash
-javac *.java
-3. Run the Game
+Run the Game
 bash
 java PongGame
 Make sure all .java files (like GameFrame.java, GamePanel.java, Paddle.java, Ball.java, etc.) are in the same directory.
